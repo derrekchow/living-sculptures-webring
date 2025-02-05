@@ -5,7 +5,7 @@ Living Sculptures Webring<br/><br/>
 - [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)
 - [Diego Behncke - A witness that hums: Diagram for the possibility of abductive synthesis]()
 - [Arbor – Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
-- [Leo Lou - MicroCatcher Concept](https://leol0u.github.io/MicroCatcher-LL/)
+- [Leo Lou - MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
 - [Eva Ingver]()
 - [Julia]()
 - [Ying Chen & Linden Derichs]()
