@@ -12,4 +12,5 @@ Living Sculptures Webring<br/><br/>
 - [Linden Derichs - double empathy]()
 - [Selenay Kiray - Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
 - [Esteban Pérez - Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
+- [Shu - WONDERFRED]()
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
