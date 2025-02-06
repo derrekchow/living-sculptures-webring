@@ -2,7 +2,6 @@ Living Sculptures Webring<br/><br/>
 ===
 
 - [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)
-- [Arbor – Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
 - [Leo Lou - MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
 - [Selenay Kiray - Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
 - [Arbor – Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
