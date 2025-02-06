@@ -9,4 +9,4 @@ For example if the URL is `https://www.udk-berlin.de` and the text for the URL i
 ` - [Living Sculptures](https://www.udk-berlin.de)`
 
 
-This site uses http://www.mdwiki.info.
+This site uses http://www.mdwiki.info. To test locally, run `python -m http.server` in the root directory.
