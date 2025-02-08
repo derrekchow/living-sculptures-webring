@@ -1,6 +1,6 @@
 Living Sculptures Webring<br/><br/>
 ===
-
+- [Johann Edelmann - MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
 - [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)
 - [Leo Lou - MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
 - [Selenay Kiray - Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
