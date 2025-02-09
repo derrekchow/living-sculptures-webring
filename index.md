@@ -8,5 +8,7 @@ Living Sculptures Webring<br/><br/>
 - [Esteban Pérez - Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
 - [Clemens Fischer - Soul-Tranfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Yujin Song - Point Nemo](https://files.catbox.moe/umxsr5.pdf)
+- [Eva Ingver] (https://evaingver.github.io/images/)
+- [Linden Derichs-double empathy] ](https://doubleempathy.neocities.org)  
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
