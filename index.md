@@ -26,6 +26,7 @@ Artist, Guest Professor
 - [Linden Derichs-double empathy](https://doubleempathy.neocities.org)
 - [Marie Luhmann - Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
 - [Shu Chon - WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
+- [Diego Behncke - A witness that hums](https://diegobehncke.works/a-witness-that-hums)
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
 
