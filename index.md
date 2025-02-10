@@ -1,4 +1,4 @@
-Living Sculptures Webring<br/><br/>
+Living Sculptures<br/>Webring<br/><br/>
 ===
 - [Johann Edelmann - MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
 - [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)

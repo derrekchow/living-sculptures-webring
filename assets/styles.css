@@ -1,10 +1,27 @@
+@font-face {
+    font-family: siteFont;
+    src: url(terminal-grotesque_open.otf);
+}
+
 :root, html, body {
     margin: auto;
-    padding-top: 50px;
+    padding: 50px;
     max-width: 500px;
-    --fontSize: 13px;
-    --sansFont: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto;
+    --fontSize: 15px;
+    --sansFont: siteFont, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto;
 }
+
+html {
+    background-position: center;
+    background-image: url('background.png');
+    background-size: 200vh auto;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: white;
+}
+
 h1 {
     font-weight: 600;
     letter-spacing: -0.8px;
