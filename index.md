@@ -1,6 +1,6 @@
-Living Sculptures Webring<br/><br/>
+Living Sculptures Webring
 ===
-
+<br/>
 Welcome to a webring by the students of Living Sculpture, a seminar at Universität der Künste Berlin as part of the Time-Based Art with Contemporary Technologies class.
 
 The seminar ran over the winter semester 2024-25. It focused on open systems-oriented art practice. We looked at biological and computational processes in and as artworks, while applying a holistic view to life and sculpture as part of an expanded ecosystem, including experimentation in scientific and technological contexts. Over the course of the semester, we listened to the sounds of microbial life, visited an ‘alt’ cybernetics library, received a talk about ikebana, and experienced a selection of live, living, time-based artworks, among other things. Some of the key readings discussed ‘neural media’, an approach to high-dimensionality suggested by K Allado-McDowell and ‘symbiontics’, a term introduced by Caroline A. Jones that connects the ontic, or “what is” to symbiosis, the condition of “with-living.” A central topic of concern were the possible forms of artisthood at a time when technology permeates every aspect of our lives, within the expanding and differentiating fields of art, and amidst planetary and humanitarian crises.
