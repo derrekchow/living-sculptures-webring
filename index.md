@@ -15,6 +15,7 @@ Artist, Guest Professor
 # Webring Links
 
 - [Selenay Kiray: Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
+- [Ying Chen: My voice will be carried on to you](https://drive.google.com/file/d/185ZPjEM7ubPtKeKoNQPrHSvfLB4UJRFT/view?usp=sharing)
 - [Philipp Dollinger: Terrapath](https://zilion.xyz/terrapath.html)
 - [Esteban Pérez: Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
 - [Linden Derichs: double empathy](https://doubleempathy.neocities.org)
