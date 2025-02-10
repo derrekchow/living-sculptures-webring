@@ -69,6 +69,5 @@ Artist, Guest Professor
 
 **Yujin Song**‘s work explores a feeling of aliveness and spatiality. Through alternative narratives within the moving image genre, she experiments with non-human perspectives to free her thoughts from a dominant human-centric viewpoint. Recently, her research has shifted toward examining how marginalized beings within urban structures experience both isolation and connection, as well as visualizing the trace of interactions between humans and non-human beings.
 
-**zouzou** is a wanderer, drifting through diverse fields and territories. Their work explores the unconscious and existence, unfolding in whatever medium suits the journey. Rooted in a pursuit of adventure and intense emotions, their practice seeks to forge connections across the self,
-others, time, memory, and the world.
+**zouzou** is a wanderer, drifting through diverse fields and territories. Their work explores the unconscious and existence, unfolding in whatever medium suits the journey. Rooted in a pursuit of adventure and intense emotions, their practice seeks to forge connections across the self, others, time, memory, and the world.
 
