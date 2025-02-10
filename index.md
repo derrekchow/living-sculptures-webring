@@ -26,6 +26,7 @@ Artist, Guest Professor
 - [Linden Derichs-double empathy](https://doubleempathy.neocities.org)
 - [Marie Luhmann - Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
 - [Shu Chon - WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
+- [Ying Chen - My voice will be carried on to you.](https://drive.google.com/file/d/185ZPjEM7ubPtKeKoNQPrHSvfLB4UJRFT/view?usp=sharing)
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
 
