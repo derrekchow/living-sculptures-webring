@@ -5,17 +5,16 @@
 
 :root, html, body {
     margin: auto;
-    padding: 50px;
-    max-width: 500px;
-    --fontSize: 15px;
+    padding: 80px;
+    max-width: 800px;
+    --fontSize: 17px;
     --sansFont: siteFont, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto;
 }
 
 html {
     background-position: center;
     background-image: url('background.png');
-    background-size: 200vh auto;
-    background-repeat: no-repeat;
+    background-size: 120%;
 }
 
 body {
