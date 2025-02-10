@@ -19,6 +19,7 @@ Artist, Guest Professor
 - [Linden Derichs: double empathy](https://doubleempathy.neocities.org)
 - [Stratos Bichakis: MAGMA](https://www.stratosbichakis.com/magma)
 - [Johann Edelmann: MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
+- [Diego Behncke - A witness that hums](https://diegobehncke.works/a-witness-that-hums)
 - [Clemens Fischer: Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Eva Ingver](https://evaingver.github.io/images/)
 - [Arbor: Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
