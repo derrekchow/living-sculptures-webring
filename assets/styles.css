@@ -21,6 +21,10 @@ body {
     background-color: white;
 }
 
+hr {
+    opacity: 0.2;
+}
+
 h1 {
     font-weight: 600;
     letter-spacing: -0.8px;
@@ -81,7 +85,7 @@ a {
         padding: 0;
     }
     body {
-        padding:50px 20px;
+        padding: 80px 20px;
     }
 
     a.forkmeongithub {
