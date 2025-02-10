@@ -20,6 +20,7 @@ Artist, Guest Professor
 - [Selenay Kiray - Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
 - [Arbor - Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
 - [Esteban Pérez - Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
+- [Philipp Dollinger - Terrapath](https://zilion.xyz/terrapath.html)
 - [Clemens Fischer - Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Yujin Song - Point Nemo](https://files.catbox.moe/umxsr5.pdf)
 - [Eva Ingver](https://evaingver.github.io/images/)
