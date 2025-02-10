@@ -19,7 +19,7 @@ Artist, Guest Professor
 - [Ying Chen: My voice will be carried on to you.](https://drive.google.com/file/d/185ZPjEM7ubPtKeKoNQPrHSvfLB4UJRFT/view?usp=sharing)
 - [Philipp Dollinger: Terrapath](https://zilion.xyz/terrapath.html)
 - [Esteban Pérez: Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
-- [Linden Derichs: double empathy](https://doubleempathy.neocities.org)
+- [Linden Derichs: double empathy](https://double-empathy.neocities.org)
 - [Stratos Bichakis: MAGMA](https://www.stratosbichakis.com/magma)
 - [Johann Edelmann: MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
 - [Diego Behncke: A witness that hums](https://diegobehncke.works/a-witness-that-hums)
