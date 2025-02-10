@@ -58,11 +58,13 @@ a {
 
 }
 @media (min-width: 992px) {
+
     #md-page-menu.affix {
         position: fixed;
     }
 }
 @media (min-width: 768px) {
+
     .md-float-left .col-sm-8, .md-float-right .col-sm-8 {
         max-width: 66.67%;
     }
@@ -75,6 +77,13 @@ a {
 
 }
 @media (max-width: 992px) {
+    :root, html {
+        padding: 0;
+    }
+    body {
+        padding:50px 20px;
+    }
+
     a.forkmeongithub {
         display: none;
     }
