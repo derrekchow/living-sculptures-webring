@@ -23,7 +23,7 @@ Artist, Guest Professor
 - [Clemens Fischer - Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Yujin Song - Point Nemo](https://files.catbox.moe/umxsr5.pdf)
 - [Eva Ingver](https://evaingver.github.io/images/)
-- [Linden Derichs-double empathy](https://doubleempathy.neocities.org)
+- [Linden Derichs-double empathy](https://double-empathy.neocities.org)
 - [Marie Luhmann - Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
 - [Shu Chon - WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
 <!-- - [text](url) -->
