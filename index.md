@@ -14,35 +14,38 @@ Artist, Guest Professor
 
 # Webring Links
 
-- [Johann Edelmann - MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
-- [Stratos Bichakis - MAGMA](https://www.stratosbichakis.com/magma)
-- [Leo Lou - MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
-- [Selenay Kiray - Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
-- [Arbor - Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
-- [Esteban Pérez - Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
-- [Clemens Fischer - Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
-- [Yujin Song - Point Nemo](https://files.catbox.moe/umxsr5.pdf)
+- [Selenay Kiray: Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
+- [Julia Koffler: a:33racadubbra](https://github.com/hoppjuliska/a-33racadubbra/blob/main/a33racadubbra.png?raw=true)
+- [Ying Chen: My voice will be carried on to you](https://drive.google.com/file/d/185ZPjEM7ubPtKeKoNQPrHSvfLB4UJRFT/view?usp=sharing)
+- [Philipp Dollinger: Terrapath](https://zilion.xyz/terrapath.html)
+- [Esteban Pérez: Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
+- [Linden Derichs: double empathy](https://doubleempathy.neocities.org)
+- [Stratos Bichakis: MAGMA](https://www.stratosbichakis.com/magma)
+- [Johann Edelmann: MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
+- [Diego Behncke: A witness that hums](https://diegobehncke.works/a-witness-that-hums)
+- [Clemens Fischer: Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Eva Ingver](https://evaingver.github.io/images/)
-- [Linden Derichs-double empathy](https://doubleempathy.neocities.org)
-- [Marie Luhmann - Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
-- [Shu Chon - WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
-- [Julia Koffler - a:33racadubbra](https://github.com/hoppjuliska/a-33racadubbra/blob/main/a33racadubbra.png?raw=true)
+- [Arbor: Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
+- [Marie Luhmann: Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
+- [Leo Lou: MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
+- [Yujin Song: Point Nemo](https://files.catbox.moe/umxsr5.pdf)
+- [Shu Chon: WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
 
 <br/><hr/><br/>
 
-The contributors in alphabetical order:
+# Contributor Bios
 
 **Arbor** is an artist and researcher using light as a medium. He creates experiential works in the form of novel interfaces and light-based artifacts and performances in a variety of contexts and environments.
 
-**Diego Behncke's** work is realized through the frameworks of fictional systems, abstraction, and synthesis. Taking form through obfuscation operations involving installations, synthetic sound, and films, his works appear as an abuse of conceptual and technical byproducts, a foregrounding of epistemic faults, and a strategic misdirection of ambiguity.
+**Diego Behncke**'s work is realized through the frameworks of fictional systems, abstraction, and synthesis. Taking form through obfuscation operations involving installations, synthetic sound, and films, his works appear as an abuse of conceptual and technical byproducts, a foregrounding of epistemic faults, and a strategic misdirection of ambiguity.
 
-**Stratos Bichakis'** artistic work centers on experiential installations and performances that transform human senses through digital technologies. He develops artistic tools and instruments, to explore the emotional and transcendent possibilities of sound, light, motion and language.
+**Stratos Bichakis**' artistic work centers on experiential installations and performances that transform human senses through digital technologies. He develops artistic tools and instruments, to explore the emotional and transcendent possibilities of sound, light, motion and language.
 
-**Ying Chen's** work explores media, communication tools, emotions, and human consciousness through new media, installation, and video. Initially focused on these relationships, her practice shifted after recovering from social anxiety. Now, she examines personal emotions in relation to nature, collaborating with non-human beings to explore coexistence within the universe.
+**Ying Chen**'s work explores media, communication tools, emotions, and human consciousness through new media, installation, and video. Initially focused on these relationships, her practice shifted after recovering from social anxiety. Now, she examines personal emotions in relation to nature, collaborating with non-human beings to explore coexistence within the universe.
 
-**Shu Ching Chon** explores human existence and how life and art intersect, correlate, and interchange throughout a person's lifespan. Their work engages with both auditory and visual perception, while also exploring other sensory experiences through the body. Through their practice, they create a medium that connects living beings with the abstract world.
+**Shu Chon** explores human existence and how life and art intersect, correlate, and interchange throughout a person's lifespan. Their work engages with both auditory and visual perception, while also exploring other sensory experiences through the body. Through their practice, they create a medium that connects living beings with the abstract world.
 
 **Linden Derichs** is studying computer science as well as new media art, interested in topics such as emotion and technology, media archeology, queer online cultures and digital intimacy and dealing with them through interactive installations and web art. He doesn’t like to think of his work as only an individual’s creation, and love for it to be woven into collective subconsciousness rather than exhibited. It is a tool for him to speak fully, to be felt in a mind that makes verbal communication fail him at times. To accept ghost like being in the digital realm and hold space for the endless loss and misunderstanding that is acting, wanting, and moving forward to all.
 
@@ -58,12 +61,14 @@ The contributors in alphabetical order:
 
 **Júlia Koffler** is a vocalist, vocal coach and sound artist from Hungary. Her work is informed by vocal research, an interest in timbre and technology, and the relationship between voice and its varied cultural articulations, taking shape through different formats such as installation, video, spatial audio pieces, and performance. Her live shows comprise a use of voice, tape and electronics to explore how vocal expression and its technological mediation unfold in a spatial setting.
 
-**Leo Lou** explores the delicate interplay between living and non-living, organic and artificial. His work delves into unseen interactions and symbiotic entanglements, reflecting on how living beings, technology, and their shared environment coalesce as an interconnected whole.
+Leo Lou explores the delicate interplay between living and non-living, organic and artificial. His work delves into unseen interactions and symbiotic entanglements, reflecting on how living beings, technology, and their shared environment coalesce as an interconnected whole.
 
-**Marie Luhmann’s** work explores the moving image in experimental cinematic forms. Her installations project images onto various materials and incorporate spoken word as well as text. Her current project examines the significance of darkness in cities during the winter months, understanding it as part of a symbiotic system that reflects the relationships between humans, nature, and darkness.
+Marie Luhmann’s work explores the moving image in experimental cinematic forms. Her installations project images onto various materials and incorporate spoken word as well as text. Her current project examines the significance of darkness in cities during the winter months, understanding it as part of a symbiotic system that reflects the relationships between humans, nature, and darkness.
 
-**Esteban Pérez's** multidisciplinary work situates his research in specific contexts and involves collaboration with human and more-than-human entities to create images, sounds, objects, and installations. His work explores alternate modes of attention to relate to the more-than-human world, informed by Latin American science fiction and Andean epistemologies.
+Esteban Pérez's multidisciplinary work situates his research in specific contexts and involves collaboration with human and more-than-human entities to create images, sounds, objects, and installations. His work explores alternate modes of attention to relate to the more-than-human world, informed by Latin American science fiction and Andean epistemologies.
 
-**Yujin Song‘s** work explores a feeling of aliveness and spatiality. Through alternative narratives within the moving image genre, she experiments with non-human perspectives to free her thoughts from a dominant human-centric viewpoint. Recently, her research has shifted toward examining how marginalized beings within urban structures experience both isolation and connection, as well as visualizing the trace of interactions between humans and non-human beings.
+Yujin Song‘s work explores a feeling of aliveness and spatiality. Through alternative narratives within the moving image genre, she experiments with non-human perspectives to free her thoughts from a dominant human-centric viewpoint. Recently, her research has shifted toward examining how marginalized beings within urban structures experience both isolation and connection, as well as visualizing the trace of interactions between humans and non-human beings.
 
-**zouzou** is a wanderer, drifting through diverse fields and territories. Their work explores the unconscious and existence, unfolding in whatever medium suits the journey. Rooted in a pursuit of adventure and intense emotions, their practice seeks to forge connections across the self, others, time, memory, and the world.
+zouzou is a wanderer, drifting through diverse fields and territories. Their work explores the unconscious and existence, unfolding in whatever medium suits the journey. Rooted in a pursuit of adventure and intense emotions, their practice seeks to forge connections across the self,
+others, time, memory, and the world.
+
