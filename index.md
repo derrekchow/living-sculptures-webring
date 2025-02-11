@@ -16,9 +16,9 @@ Artist, Guest Professor
 
 - [Selenay Kiray: Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
 - [Julia Koffler: a:33racadubbra](https://github.com/hoppjuliska/a-33racadubbra/blob/main/a33racadubbra.png?raw=true)
-- [Ying Chen: My voice will be carried on to you.](https://drive.google.com/file/d/1BDyQOpnZsJvwywtpXmmewUoXyh48y1o4/view?usp=sharing)
+- [Ying Chen: My voice will be carried on to you.](https://drive.google.com/file/d/1BDyQOpnZsJvwywtpXmmewUoXyh48y1o4/preview)
 - [Philipp Dollinger: Terrapath](https://zilion.xyz/terrapath.html)
-- [Esteban Pérez: Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/view?usp=drive_link)
+- [Esteban Pérez: Score for a volcanic listening](https://drive.google.com/file/d/1_TPWO7Qr_8dfDxbF1qNfYqHTZib6he-T/preview)
 - [Linden Derichs: double empathy](https://double-empathy.neocities.org)
 - [Stratos Bichakis: MAGMA](https://www.stratosbichakis.com/magma)
 - [Johann Edelmann: MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
@@ -29,6 +29,7 @@ Artist, Guest Professor
 - [Marie Luhmann: Darkness](https://Marie00000.github.io/Experience-of-Darkness/)
 - [Leo Lou: MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
 - [Yujin Song: Point Nemo](https://files.catbox.moe/umxsr5.pdf)
+- [zouzou: Resilient Remains](https://drive.google.com/file/d/1F9mBVXvq51o_BqMH9rjGgJaR_ZKU_pmH/preview)
 - [Shu Chon: WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
