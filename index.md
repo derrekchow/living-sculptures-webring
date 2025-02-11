@@ -26,7 +26,7 @@ Artist, Guest Professor
 - [Clemens Fischer: Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
 - [Eva Ingver](https://evaingver.github.io/images/)
 - [Arbor: Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
-- [Marie Luhmann: Darkness](https://github.com/Marie00000/Experience-of-Darkness.git)
+- [Marie Luhmann: Darkness](https://Marie00000.github.io/Experience-of-Darkness/)
 - [Leo Lou: MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
 - [Yujin Song: Point Nemo](https://files.catbox.moe/umxsr5.pdf)
 - [Shu Chon: WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
