@@ -5,7 +5,9 @@ Welcome to a webring by the students of Living Sculpture, a seminar at Universit
 
 The seminar ran over the winter semester 2024-25. It focused on open systems-oriented art practice. We looked at biological and computational processes in and as artworks, while applying a holistic view to life and sculpture as part of an expanded ecosystem, including experimentation in scientific and technological contexts. Over the course of the semester, we listened to the sounds of microbial life, visited an ‘alt’ cybernetics library, received a talk about ikebana, and experienced a selection of live, living, time-based artworks, among other things. Some of the key readings discussed ‘neural media’, an approach to high-dimensionality suggested by K Allado-McDowell and ‘symbiontics’, a term introduced by Caroline A. Jones that connects the ontic, or “what is” to symbiosis, the condition of “with-living.” A central topic of concern were the possible forms of artisthood at a time when technology permeates every aspect of our lives, within the expanding and differentiating fields of art, and amidst planetary and humanitarian crises.
 
-For their seminar work, the students were asked to create instructionals, or scores for ‘living sculptures’. Future artworks ranging from realistic to fantastical that would be presented as a collection of online entries linked together in a circular structure: sculptures.live! Additionally, a series of silk screen printed posters was made to promote this web publication. The works in the webring range from poetry to code, from tools to instruments, from games to exercises, from scripts to recipes—and everything in between. They include works based in time and time travel; attempts at inter- and intraspecies communication; skins, bones, and ghosts. Reflecting the ways in which the seminar took interest in the boundaries of knowledge, I hope experiencing the participants’ works will make both sense and nonsense.
+For their seminar work, the students were asked to create instructionals, or scores for ‘living sculptures’. Future artworks ranging from realistic to fantastical that would be presented as a collection of online entries linked together in a circular structure: sculptures.live! Additionally, a series of silk screen printed posters was made to promote this web publication. The works in the webring range from poetry to code, from tools to instruments, from games to exercises, from scripts to recipes—and everything in between. They include works based in time and time travel; attempts at inter- and intraspecies communication; skins, bones, and ghosts. The artistic positions are the students’ own and each is hosting their content independently. 
+
+Reflecting the ways in which the seminar took interest in the boundaries of knowledge, I hope experiencing the participants’ works will make both sense and nonsense.
 
 Jenna Sutela
 Artist, Guest Professor 
@@ -24,7 +26,7 @@ Artist, Guest Professor
 - [Johann Edelmann: MI // MOSS INTELLIGENCE ](https://edelmaan.github.io/mossi/)
 - [Diego Behncke: A witness that hums](https://diegobehncke.works/a-witness-that-hums)
 - [Clemens Fischer: Soul-Transfer-Machine](https://miro.com/app/board/uXjVLj5giUE=/)
-- [Eva Ingver](https://evaingver.github.io/images/)
+- [Eva Ingver: Kinetic Blueprints *ଘ( ᵕ꒶̮ᵕ(꒡ᵋ ꒡ღ)zZ‥](https://evaingver.github.io/images/)
 - [Arbor: Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
 - [Marie Luhmann: Darkness](https://Marie00000.github.io/Experience-of-Darkness/)
 - [Leo Lou: MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
