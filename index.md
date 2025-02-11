@@ -28,7 +28,7 @@ Artist, Guest Professor
 - [Arbor: Three Points of Contact](https://www.derrekchow.com/three-points-of-contact)
 - [Marie Luhmann: Darkness](https://Marie00000.github.io/Experience-of-Darkness/)
 - [Leo Lou: MicroCatcher](https://leol0u.github.io/MicroCatcher-LL/)
-- [Yujin Song: Point Nemo](https://files.catbox.moe/umxsr5.pdf)
+- [Yujin Song: Point Nemo](https://files.catbox.moe/fcklqc.pdf)
 - [zouzou: Resilient Remains](https://drive.google.com/file/d/1F9mBVXvq51o_BqMH9rjGgJaR_ZKU_pmH/preview)
 - [Shu Chon: WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
 <!-- - [text](url) -->
