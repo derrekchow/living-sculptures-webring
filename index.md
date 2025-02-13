@@ -16,6 +16,7 @@ Artist, Guest Professor
 
 # Webring Links
 
+-->
 - [Selenay Kiray: Internal Sound Making Manual, Tensor Tympani Bass](https://seloseloselo1.github.io/Tensor-Tympani-Bass/)
 - [Julia Koffler: a:33racadubbra](https://github.com/hoppjuliska/a-33racadubbra/blob/main/a33racadubbra.png?raw=true)
 - [Ying Chen: My voice will be carried on to you.](https://drive.google.com/file/d/1BDyQOpnZsJvwywtpXmmewUoXyh48y1o4/preview)
@@ -33,6 +34,7 @@ Artist, Guest Professor
 - [Yujin Song: Point Nemo](https://files.catbox.moe/fcklqc.pdf)
 - [zouzou: Resilient Remains](https://drive.google.com/file/d/1F9mBVXvq51o_BqMH9rjGgJaR_ZKU_pmH/preview)
 - [Shu Chon: WONDERFRED](https://5ine-w.github.io/shuhu/WF205_e.pdf)
+<--
 <!-- - [text](url) -->
 <!-- ^^ add/update your link here in the same form: "- [text](url)" -->
 
